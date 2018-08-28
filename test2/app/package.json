@@ -1,0 +1,21 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "**NOTE**: For this excercise the code DOES need to be working.",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd app && react-scripts start",
+    "build": "cd app && react-scripts build",
+    "test": "cd app && react-scripts test --env=jsdom",
+    "eject": "cd app && react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^1.5.0",
+    "npx": "^10.2.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  }
+}

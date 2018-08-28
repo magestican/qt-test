@@ -1,0 +1,10 @@
+{
+  "books": [
+    { "id": 1, "title": "The sun", "type": "dystopian", "image" : "https://i2-prod.mirror.co.uk/incoming/article7521191.ece/ALTERNATES/s615/Solar-Eclipse.jpg", "description" : "A red dot dominating the sky"},
+    { "id": 2, "title": "Caribean", "type": "peace",  "image" : "https://manoahswife.files.wordpress.com/2011/09/peaceful-place-photobucket1.jpg" , "description" : "The enchanting adventures of Captain Morgan"},
+    { "id": 3, "title": "Computers", "type": "tech",  "image" : "https://ak7.picdn.net/shutterstock/videos/15548257/thumb/12.jpg" , "description" : "A book about the machines" }
+  ],
+  "types": [
+   {"name" : "dystopian", "description" : "Talks about fantasy and the universe"}, {"name" : "peace", "description" : "Books how pacific things are"}, {"name": "tech", "description" : "The origin of the computer species"}
+  ]
+}
